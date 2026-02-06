@@ -1,0 +1,81 @@
+## Components
+    [] Accordion
+    [] Alerts
+    [] Badge
+    [] Breadcrumb
+[] Buttons
+[] Button group
+    [] Card
+    [] Carousel
+[] Close button
+    [] Collapse
+    [] Dropdowns
+    [] List group
+    [] Modal
+    [] Navbar
+    [] Navs & tabs
+    [] Offcanvas
+    [] Pagination
+    [] Placeholders
+    [] Popovers
+    [] Progress
+    [] Scrollspy
+    [] Spinners
+    [] Toasts
+    [] Tooltips
+
+## Forms
+    [] Overview
+    [] Form control
+    [] Select
+    [] Checks & radios
+    [] Range
+    [] Input group
+    [] Floating labels
+    [] Layout
+    [] Validation
+
+
+## Layout
+    [] Breakpoints
+    [] Containers
+    [] Grid
+    [] Columns
+    [] Gutters
+    [] Utilities
+    [] Z-index
+    [] CSS Grid
+
+
+## Content
+    [] Reboot
+    [] Typography
+    [] Images
+    [] Tables
+    [] Figures
+
+
+
+
+fuentes {
+    font-family:{
+  ui-sans-serif,
+  system-ui,
+  -apple-system,
+  BlinkMacSystemFont,
+  "Segoe UI",
+  Roboto,
+  "Helvetica Neue",
+  Arial,
+  sans-serif,
+  "Apple Color Emoji",
+  "Segoe UI Emoji",
+  "Segoe UI Symbol",
+  "Noto Color Emoji"};
+
+
+
+otra muy buena 
+    IBM Plex Mono
+
+}

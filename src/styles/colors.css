@@ -1,0 +1,227 @@
+/* Paleta de colores en variables root */
+:root {
+    /* Base */
+    --blue: #0A6FFD;
+    --indigo: #670FF2;
+    --purple: #6F42C1;
+    --pink: #D63384;
+    --red: #DC3545;
+    --orange: #FD7E14;
+    --yellow: #FFC107;
+    --green: #198755;
+    --teal: #22C997;
+    --cyan: #10CAF0;
+    --gray: #ADB5BD;
+    --white: #FFFFFF;
+    --black: #000000;
+
+    /* Blue */
+    --blue-100: #CFE2FF;
+    --blue-200: #9EC5FE;
+    --blue-300: #6EA8FE;
+    --blue-400: #3D8BFD;
+    --blue-500: #206EFD;
+    --blue-600: #1758CA;
+    --blue-700: #104298;
+    --blue-800: #082D65;
+    --blue-900: #031633;
+
+    /* Indigo */
+    --indigo-100: #E0CFFC;
+    --indigo-200: #C29FFA;
+    --indigo-300: #A370F7;
+    --indigo-400: #8540F5;
+    --indigo-500: #6610F2;
+    --indigo-600: #520DC2;
+    --indigo-700: #3D0B91;
+    --indigo-800: #280761;
+    --indigo-900: #140330;
+
+    /* Purple */
+    --purple-100: #E2D9F3;
+    --purple-200: #C5B3E6;
+    --purple-300: #C5B3E6;
+    --purple-400: #8C68CD;
+    --purple-500: #6F42C1;
+    --purple-600: #59359A;
+    --purple-700: #432874;
+    --purple-800: #2C194D;
+    --purple-900: #160E27;
+
+    /* Pink */
+    --pink-100: #F7D6E6;
+    --pink-200: #EFADCE;
+    --pink-300: #E685B5;
+    --pink-400: #DE5C9D;
+    --pink-500: #D63384;
+    --pink-600: #AB296A;
+    --pink-700: #80204F;
+    --pink-800: #561435;
+    --pink-900: #2B091B;
+
+    /* Red */
+    --red-100: #F8D7DA;
+    --red-200: #F1AEB5;
+    --red-300: #F8D7DA;
+    --red-400: #E35D6A;
+    --red-500: #DC3645;
+    --red-600: #B02A38;
+    --red-700: #842029;
+    --red-800: #58151C;
+    --red-900: #2C0B0D;
+
+    /* Gray */
+    --gray-100: #F8F9FA;
+    --gray-200: #E9ECEF;
+    --gray-300: #DEE2E6;
+    --gray-400: #CED4DA;
+    --gray-500: #ADB5BD;
+    --gray-600: #6C757D;
+    --gray-700: #4A5058;
+    --gray-800: #343A40;
+    --gray-900: #212529;
+}
+
+/* Paleta de colores en CSS clases */
+
+
+/* Colores base */
+.blue { color: #fff; background-color: #0A6FFD; }
+.indigo { color: #fff; background-color: #670FF2; }
+.purple { color: #fff; background-color: #6F42C1; }
+.pink { color: #fff; background-color: #D63384; }
+.red { color: #fff; background-color: #dC3545; }
+.orange { color: #000; background-color: #FD7E14; }
+.yellow { color: #000; background-color: #FFC107; }
+.green { color: #fff; background-color: #198755; }
+.teal { color: #000; background-color: #22C997; }
+.cyan { color: #000; background-color: #10CAF0; }
+.gray { color: #000; background-color: #ADB5BD; }
+
+
+/* Blanco y negro */
+.white { color: #000; background-color: #ffffff; }
+.black { color: #fff; background-color: #000000; }
+
+/* Variaciones de colores base */
+
+/* Azul */
+.blue-100 { color: #000; background-color: #CFE2FF; }
+.blue-200 { color: #000; background-color: #9EC5FE; }
+.blue-300 { color: #000; background-color: #6EA8FE; }
+.blue-400 { color: #000; background-color: #3D8BFD; }
+.blue-500 { color: #fff; background-color: #206EFD; }
+.blue-600 { color: #fff; background-color: #1758CA; }
+.blue-700 { color: #fff; background-color: #104298; }
+.blue-800 { color: #fff; background-color: #082D65; }
+.blue-900 { color: #fff; background-color: #031633; }
+
+/* Indigo */
+.indigo-100 { color: #000; background-color: #E0CFFC; }
+.indigo-200 { color: #000; background-color: #C29FFA; }
+.indigo-300 { color: #000; background-color: #A370F7; }
+.indigo-400 { color: #fff; background-color: #8540F5; }
+.indigo-500 { color: #fff; background-color: #6610F2; }
+.indigo-600 { color: #fff; background-color: #520DC2; }
+.indigo-700 { color: #fff; background-color: #3D0B91; }
+.indigo-800 { color: #fff; background-color: #280761; }
+.indigo-900 { color: #fff; background-color: #140330; }
+
+/* Purple */
+.purple-100 { color: #000; background-color: #E2D9F3; }
+.purple-200 { color: #000; background-color: #C5B3E6; }
+.purple-300 { color: #000; background-color: #C5B3E6; }
+.purple-400 { color: #000; background-color: #8C68CD; }
+.purple-500 { color: #fff; background-color: #6F42C1; }
+.purple-600 { color: #fff; background-color: #59359A; }
+.purple-700 { color: #fff; background-color: #432874; }
+.purple-800 { color: #fff; background-color: #2C194D; }
+.purple-900 { color: #fff; background-color: #160E27; }
+
+/* Pink */
+.pink-100 { color: #000; background-color: #F7D6E6; }
+.pink-200 { color: #000; background-color: #EFADCE; }
+.pink-300 { color: #000; background-color: #E685B5; }
+.pink-400 { color: #000; background-color: #DE5C9D; }
+.pink-500 { color: #fff; background-color: #D63384; }
+.pink-600 { color: #fff; background-color: #AB296A; }
+.pink-700 { color: #fff; background-color: #80204F; }
+.pink-800 { color: #fff; background-color: #561435; }
+.pink-900 { color: #fff; background-color: #2B091B; }
+
+/* Rojo */
+.red-100 { color: #000; background-color: #F8D7DA; }
+.red-200 { color: #000; background-color: #F1AEB5; }
+.red-300 { color: #000; background-color: #F8D7DA; }
+.red-400 { color: #000; background-color: #E35D6A; }
+.red-500 { color: #fff; background-color: #DC3645; }
+.red-600 { color: #fff; background-color: #B02A38; }
+.red-700 { color: #fff; background-color: #842029; }
+.red-800 { color: #fff; background-color: #58151C; }
+.red-900 { color: #fff; background-color: #2C0B0D; }
+
+/* Naranja */
+.orange-100 { color: #000; background-color: #FDE5D0; }
+.orange-200 { color: #000; background-color: #FBCBA1; }
+.orange-300 { color: #000; background-color: #F9B272; }
+.orange-400 { color: #000; background-color: #F79843; }
+.orange-500 { color: #000; background-color: #F67E14; }
+.orange-600 { color: #000; background-color: #CA6510; }
+.orange-700 { color: #fff; background-color: #984C0D; }
+.orange-800 { color: #fff; background-color: #653207; }
+.orange-900 { color: #fff; background-color: #341905; }
+
+/* Amarillo */
+.yellow-100 { color: #000; background-color: #FEF3CD; }
+.yellow-200 { color: #000; background-color: #FDE69D; }
+.yellow-300 { color: #000; background-color: #FCDA6A; }
+.yellow-400 { color: #000; background-color: #FBCD39; }
+.yellow-500 { color: #000; background-color: #FAC107; }
+.yellow-600 { color: #000; background-color: #CC9A05; }
+.yellow-700 { color: #000; background-color: #997403; }
+.yellow-800 { color: #fff; background-color: #664C03; }
+.yellow-900 { color: #fff; background-color: #664C03; }
+
+/* Verde */
+.green-100 { color: #000; background-color: #D1E7DD; }
+.green-200 { color: #000; background-color: #A3CFBB; }
+.green-300 { color: #000; background-color: #75B798; }
+.green-400 { color: #000; background-color: #479F77; }
+.green-500 { color: #fff; background-color: #341905; }
+.green-600 { color: #fff; background-color: #156C43; }
+.green-700 { color: #fff; background-color: #0F5132; }
+.green-800 { color: #fff; background-color: #0B3622; }
+.green-900 { color: #fff; background-color: #051B11; }
+
+/* Teal */
+.teal-100 { color: #000; background-color: #D2F4EB; }
+.teal-200 { color: #000; background-color: #A7E9D5; }
+.teal-300 { color: #000; background-color: #78DFC1; }
+.teal-400 { color: #000; background-color: #4DD4AC; }
+.teal-500 { color: #000; background-color: #22C997; }
+.teal-600 { color: #000; background-color: #1AA179; }
+.teal-700 { color: #fff; background-color: #14795B; }
+.teal-800 { color: #fff; background-color: #0D503C; }
+.teal-900 { color: #fff; background-color: #06281F; }
+
+/* Cyan */
+.cyan-100 { color: #000; background-color: #10CAF0; }
+.cyan-200 { color: #000; background-color: #9EEAF9; }
+.cyan-300 { color: #000; background-color: #FFFFFF; }
+.cyan-400 { color: #000; background-color: #3CD5F3; }
+.cyan-500 { color: #000; background-color: #10CAF0; }
+.cyan-600 { color: #000; background-color: #07A2C0; }
+.cyan-700 { color: #fff; background-color: #067991; }
+.cyan-800 { color: #fff; background-color: #055160; }
+.cyan-900 { color: #fff; background-color: #032830; }
+
+/* Gris */
+.gray-100 { color: #000; background-color: #F8F9FA; }
+.gray-200 { color: #000; background-color: #E9ECEF; }
+.gray-300 { color: #000; background-color: #DEE2E6; }
+.gray-400 { color: #000; background-color: #CED4DA; }
+.gray-500 { color: #000; background-color: #ADB5BD; }
+.gray-600 { color: #fff; background-color: #6C757D; }
+.gray-700 { color: #fff; background-color: #4A5058; }
+.gray-800 { color: #fff; background-color: #343A40; }
+.gray-900 { color: #fff; background-color: #212529; }
